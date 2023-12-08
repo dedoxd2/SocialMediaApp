@@ -6,3 +6,5 @@ Register, Log in, Log out,
   Profile Page , Follow Feature ,
  Customized Post Feed, User Suggestions
 , Search for user, download images
+
+Using Django Frame Work
